@@ -1,0 +1,4 @@
+create git repository
+copy ssh file key to connect local repository with "git add remote <paste key from github>
+git pull origin master - gets the repository files from github (if you had it create a README.md file) so you can push all of the local files
+git push origin master - pushes the local copies of the files to th github repository.
